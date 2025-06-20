@@ -1,4 +1,4 @@
-# MoityaNest 🪺
+# MoityaNest
 
 > **Nest your ideas. Flow your code.**
 
